@@ -1,0 +1,6 @@
+2018-04-25 14:31:58,398 - transaction - INFO - 账户:wmm     项目:repay       金额1000.0    利息0.0        
+2018-04-25 15:42:12,717 - transaction - INFO - 账户:wmm     项目:repay       金额222.0    利息0.0        
+2018-04-25 15:42:48,842 - transaction - INFO - 账户:wmm     项目:repay       金额2342.0    利息0.0        
+2018-04-25 15:47:52,588 - transaction - INFO - 账户:12345     项目:repay       金额3939.0    利息0.0        
+2018-04-25 15:48:44,570 - transaction - INFO - 账户:12345     项目:withdraw       金额1135.0    利息56.75        
+2018-04-25 15:49:04,471 - transaction - INFO - 账户:wmm     项目:withdraw       金额202.0    利息10.100000000000001        
